@@ -1,0 +1,241 @@
+Age,JobRole,MonthlyIncome,YearsAtCompany,YearsInRole,JobSatisfaction,EnvironmentSatisfaction,WorkLifeBalance,OverTime,DistanceFromHome,YearsSinceLastPromotion,TrainingTimesLastYear,PerformanceRating,BusinessTravel,ActualAttrition,PredictedAttrition,AttritionProbability,RiskBand
+37,Support Engineer,8318,2,0,3,4,1,No,7,5,4,2,Rarely,No,No,0.2275,Lower model score
+60,Operations Associate,6785,2,2,1,2,4,Yes,12,2,2,2,Non-Travel,Yes,No,0.4163,Moderate model score
+52,Project Manager,9850,3,2,2,4,1,No,32,6,3,3,Frequently,No,No,0.2994,Lower model score
+43,Operations Associate,7399,0,0,4,2,4,Yes,12,3,2,3,Non-Travel,No,No,0.429,Moderate model score
+36,Operations Associate,5866,4,3,3,4,2,No,19,2,6,3,Frequently,No,No,0.4164,Moderate model score
+54,Support Engineer,6808,4,4,4,3,2,No,12,4,1,3,Rarely,No,No,0.2768,Lower model score
+42,Accountant,5472,1,1,3,3,3,No,20,2,2,3,Rarely,No,No,0.2801,Lower model score
+21,Data Analyst,3337,3,3,2,4,4,No,20,4,0,4,Rarely,Yes,No,0.4786,Moderate model score
+40,Sales Executive,5001,1,1,2,1,1,Yes,15,6,4,3,Frequently,No,Yes,0.55,Moderate model score
+24,Data Analyst,5610,2,2,2,1,4,Yes,29,4,0,4,Rarely,No,Yes,0.5663,Moderate model score
+53,HR Specialist,9175,1,0,4,4,1,No,30,3,0,3,Frequently,Yes,No,0.3051,Lower model score
+43,Operations Associate,7730,2,2,3,3,2,Yes,26,4,6,2,Non-Travel,No,No,0.3926,Moderate model score
+41,Data Analyst,5673,8,4,2,1,2,No,38,9,5,4,Rarely,No,No,0.4543,Moderate model score
+38,Software Engineer,9653,4,3,2,4,1,No,23,4,1,3,Rarely,No,No,0.2098,Lower model score
+27,Software Engineer,9603,6,2,1,2,4,No,13,2,1,3,Frequently,No,No,0.4209,Moderate model score
+52,Operations Associate,8324,5,3,3,4,1,No,21,5,1,4,Frequently,No,No,0.3032,Lower model score
+55,Data Analyst,5678,4,2,1,4,1,No,31,4,1,4,Rarely,No,No,0.46,Moderate model score
+36,Data Analyst,7386,3,3,4,2,3,No,8,1,5,3,Frequently,No,No,0.302,Lower model score
+36,Project Manager,8878,2,2,1,2,4,No,31,3,4,3,Non-Travel,No,No,0.4292,Moderate model score
+26,Accountant,11304,4,2,2,2,4,No,11,0,5,2,Frequently,No,No,0.3466,Moderate model score
+21,Support Engineer,6216,5,3,2,4,4,Yes,39,4,2,2,Non-Travel,Yes,Yes,0.5512,Moderate model score
+37,Software Engineer,7797,3,3,4,3,2,No,24,5,4,3,Non-Travel,No,No,0.344,Moderate model score
+34,Sales Executive,6639,6,0,1,2,1,No,34,1,2,3,Rarely,No,Yes,0.5203,Moderate model score
+55,Software Engineer,3724,3,3,3,3,3,No,29,5,2,4,Rarely,No,No,0.3464,Moderate model score
+42,Operations Associate,3421,4,4,4,4,3,No,21,4,3,3,Frequently,No,No,0.441,Moderate model score
+50,Operations Associate,6389,11,2,4,3,3,No,36,0,2,4,Non-Travel,No,No,0.4546,Moderate model score
+33,Data Analyst,7448,5,2,1,1,1,Yes,8,1,3,4,Rarely,Yes,Yes,0.6159,Moderate model score
+36,Sales Executive,8245,3,3,2,2,3,No,4,4,0,4,Rarely,No,No,0.2763,Lower model score
+47,Sales Executive,11342,4,2,2,3,1,Yes,26,2,0,3,Rarely,No,No,0.3861,Moderate model score
+24,Data Analyst,5847,3,0,2,4,2,Yes,20,4,0,2,Non-Travel,No,No,0.4672,Moderate model score
+48,Sales Executive,11694,3,2,3,2,3,No,11,2,5,3,Rarely,No,No,0.1787,Lower model score
+41,Support Engineer,2834,4,2,2,1,2,Yes,10,0,4,4,Non-Travel,Yes,No,0.4738,Moderate model score
+60,Operations Associate,9411,3,2,2,1,2,No,35,5,1,3,Frequently,No,No,0.3585,Moderate model score
+35,Data Analyst,2019,3,3,4,2,4,No,33,2,3,3,Non-Travel,Yes,Yes,0.5638,Moderate model score
+37,Sales Executive,1800,4,3,3,3,3,No,8,5,1,3,Frequently,Yes,Yes,0.7776,Higher model score
+33,Software Engineer,5624,3,3,4,3,2,No,14,5,3,3,Rarely,Yes,No,0.327,Lower model score
+39,Data Analyst,2426,2,1,3,3,4,No,12,6,5,3,Frequently,Yes,Yes,0.6439,Moderate model score
+54,Accountant,2299,2,2,2,4,2,No,22,2,4,3,Rarely,No,No,0.4931,Moderate model score
+52,Support Engineer,10211,3,2,4,4,3,Yes,30,5,0,3,Rarely,Yes,No,0.4697,Moderate model score
+53,Sales Executive,11185,5,5,4,1,2,No,10,3,6,3,Rarely,No,No,0.2355,Lower model score
+23,Software Engineer,7235,4,2,4,3,1,No,4,1,6,3,Rarely,Yes,No,0.22,Lower model score
+49,Accountant,5843,3,1,1,3,2,No,20,1,3,3,Frequently,Yes,No,0.3698,Moderate model score
+58,Operations Associate,8723,5,4,3,3,3,No,31,4,5,3,Non-Travel,Yes,No,0.2661,Lower model score
+35,Support Engineer,7475,7,0,1,2,3,No,39,2,2,2,Rarely,No,Yes,0.5808,Moderate model score
+58,Software Engineer,8514,4,1,1,1,4,Yes,34,4,1,3,Rarely,Yes,Yes,0.6298,Moderate model score
+23,Project Manager,3414,5,1,4,1,2,No,9,1,3,3,Frequently,Yes,No,0.3182,Lower model score
+29,Operations Associate,10935,3,3,3,4,1,No,16,3,0,4,Frequently,Yes,No,0.314,Lower model score
+51,Operations Associate,4990,5,3,1,3,3,No,8,3,6,4,Rarely,Yes,No,0.4597,Moderate model score
+28,Data Analyst,8770,2,2,1,1,4,No,37,3,2,4,Rarely,No,No,0.4829,Moderate model score
+32,Accountant,6569,3,3,3,3,1,No,19,7,3,3,Frequently,No,No,0.4074,Moderate model score
+43,Project Manager,3811,3,1,2,4,2,Yes,28,0,0,3,Rarely,No,No,0.3114,Lower model score
+49,Software Engineer,7567,4,4,4,3,3,No,13,3,3,3,Rarely,No,No,0.2215,Lower model score
+27,Data Analyst,6718,2,2,1,2,1,No,26,6,5,3,Rarely,No,No,0.4597,Moderate model score
+57,Sales Executive,9454,3,1,2,1,1,No,37,2,3,3,Rarely,Yes,No,0.3411,Moderate model score
+44,Software Engineer,6346,4,2,2,3,1,No,36,2,1,3,Frequently,Yes,No,0.3752,Moderate model score
+42,Support Engineer,6121,3,1,3,1,1,No,12,7,0,3,Rarely,No,No,0.2096,Lower model score
+60,Software Engineer,8067,1,1,4,1,2,No,26,2,6,3,Frequently,No,No,0.2553,Lower model score
+28,HR Specialist,7508,6,0,1,1,2,No,21,3,1,3,Rarely,No,No,0.4472,Moderate model score
+54,Operations Associate,7510,3,0,3,1,4,Yes,16,4,5,3,Rarely,Yes,No,0.3675,Moderate model score
+35,Sales Executive,3867,2,0,1,1,4,Yes,33,4,5,3,Rarely,Yes,Yes,0.6073,Moderate model score
+59,Sales Executive,2369,4,3,1,2,1,No,34,4,0,3,Frequently,Yes,Yes,0.564,Moderate model score
+28,Support Engineer,1885,6,3,3,4,2,Yes,23,4,4,3,Rarely,Yes,Yes,0.6931,Higher model score
+58,Operations Associate,9945,6,4,1,1,4,Yes,27,4,5,3,Rarely,Yes,No,0.4969,Moderate model score
+58,Project Manager,6348,3,3,3,3,4,No,17,1,6,3,Rarely,No,No,0.2062,Lower model score
+29,Project Manager,5588,4,3,3,3,3,No,35,2,0,3,Non-Travel,No,No,0.2888,Lower model score
+53,Sales Executive,4845,7,1,1,3,1,Yes,37,0,5,3,Rarely,No,Yes,0.5246,Moderate model score
+60,Operations Associate,9747,6,2,4,3,3,No,28,3,5,3,Non-Travel,No,No,0.2618,Lower model score
+25,Support Engineer,9414,5,3,2,2,3,No,16,2,3,4,Non-Travel,No,No,0.4592,Moderate model score
+35,Software Engineer,7786,6,4,2,3,4,Yes,30,4,3,4,Rarely,Yes,No,0.4541,Moderate model score
+24,HR Specialist,5550,3,1,4,2,4,No,40,5,1,3,Rarely,Yes,No,0.3394,Moderate model score
+32,Sales Executive,4114,4,3,1,2,4,No,11,1,5,3,Rarely,No,No,0.386,Moderate model score
+27,Software Engineer,5835,3,3,1,4,3,Yes,17,3,3,3,Rarely,No,No,0.4456,Moderate model score
+26,Software Engineer,4617,3,1,3,3,4,Yes,33,1,4,3,Rarely,No,No,0.4991,Moderate model score
+25,HR Specialist,2814,6,1,4,4,1,No,22,3,2,4,Rarely,No,No,0.4989,Moderate model score
+58,Data Analyst,6815,5,3,4,1,4,No,11,1,6,3,Rarely,No,No,0.2695,Lower model score
+54,Software Engineer,5089,3,3,3,1,2,No,37,2,0,3,Frequently,No,No,0.2124,Lower model score
+54,HR Specialist,1800,7,1,2,2,3,No,16,1,2,2,Frequently,Yes,Yes,0.6879,Higher model score
+50,Project Manager,3508,3,1,2,4,1,No,22,1,6,3,Rarely,No,No,0.3638,Moderate model score
+40,Accountant,13128,5,2,3,2,3,No,31,2,0,3,Frequently,No,No,0.3244,Lower model score
+50,Software Engineer,7550,7,5,3,3,4,Yes,3,2,3,3,Rarely,No,No,0.4176,Moderate model score
+43,HR Specialist,3963,9,6,3,3,1,Yes,36,4,3,2,Frequently,Yes,No,0.4368,Moderate model score
+38,Software Engineer,4867,6,1,2,3,3,Yes,3,8,6,3,Frequently,No,Yes,0.5099,Moderate model score
+22,Support Engineer,7165,2,2,1,1,4,No,13,2,5,4,Rarely,No,No,0.3398,Moderate model score
+23,Software Engineer,7120,1,1,3,4,2,No,3,3,6,3,Rarely,No,No,0.2426,Lower model score
+34,Data Analyst,7569,2,2,2,4,1,Yes,9,5,0,3,Non-Travel,No,Yes,0.5531,Moderate model score
+21,Operations Associate,6190,4,0,4,3,2,No,18,2,3,3,Rarely,No,No,0.3074,Lower model score
+22,Operations Associate,7677,2,1,1,1,3,Yes,10,1,3,4,Rarely,No,No,0.4529,Moderate model score
+31,Software Engineer,11174,3,3,4,3,2,No,2,3,1,3,Frequently,Yes,No,0.2279,Lower model score
+58,Software Engineer,7561,3,3,1,3,3,No,27,2,4,2,Rarely,No,No,0.3208,Lower model score
+36,Accountant,4603,3,2,4,1,1,Yes,29,1,0,3,Rarely,No,No,0.4474,Moderate model score
+41,Software Engineer,5552,5,2,4,3,2,Yes,23,5,1,3,Non-Travel,No,No,0.4904,Moderate model score
+32,Accountant,10396,3,2,2,1,4,No,33,2,2,3,Non-Travel,No,No,0.4806,Moderate model score
+27,Project Manager,11141,5,3,3,2,1,No,33,6,3,4,Frequently,Yes,No,0.3811,Moderate model score
+21,Operations Associate,12332,1,0,2,1,4,Yes,37,4,3,3,Rarely,Yes,Yes,0.5166,Moderate model score
+57,Sales Executive,9089,4,2,3,2,2,No,40,5,6,3,Rarely,No,No,0.2803,Lower model score
+55,Accountant,5863,7,4,4,2,1,No,8,3,6,3,Non-Travel,No,No,0.3092,Lower model score
+59,Sales Executive,5788,4,0,1,2,2,No,11,1,5,4,Rarely,No,No,0.4627,Moderate model score
+44,Software Engineer,6021,6,0,4,2,4,No,7,3,4,4,Rarely,No,No,0.4031,Moderate model score
+46,Software Engineer,7350,2,2,2,2,4,No,16,4,2,3,Rarely,No,No,0.2186,Lower model score
+54,Project Manager,6508,3,3,3,2,3,No,29,4,4,3,Frequently,No,No,0.2308,Lower model score
+51,Support Engineer,5975,4,3,4,3,4,No,38,0,3,4,Non-Travel,No,No,0.3943,Moderate model score
+39,Software Engineer,7834,6,1,3,4,1,No,38,6,2,3,Rarely,Yes,No,0.3475,Moderate model score
+53,Support Engineer,6244,2,2,2,2,3,Yes,2,5,6,3,Frequently,Yes,Yes,0.5067,Moderate model score
+29,Support Engineer,5822,5,3,2,1,2,Yes,20,0,4,3,Frequently,Yes,No,0.4265,Moderate model score
+21,Operations Associate,8569,6,2,3,3,3,Yes,23,3,3,4,Rarely,Yes,No,0.4582,Moderate model score
+37,Sales Executive,4868,2,0,1,3,3,Yes,9,2,6,3,Rarely,No,Yes,0.5614,Moderate model score
+50,Support Engineer,1800,5,1,2,4,3,No,40,3,4,4,Rarely,No,Yes,0.6085,Moderate model score
+48,Sales Executive,5113,3,3,3,1,1,No,15,4,1,3,Rarely,No,No,0.1688,Lower model score
+33,HR Specialist,2895,6,0,1,4,4,No,26,5,4,3,Rarely,No,Yes,0.6163,Moderate model score
+42,Support Engineer,6388,3,3,4,3,4,Yes,27,5,4,4,Rarely,No,No,0.4848,Moderate model score
+56,Operations Associate,5972,2,1,2,3,4,Yes,23,3,5,4,Non-Travel,No,No,0.4238,Moderate model score
+26,Sales Executive,6178,4,1,1,2,3,No,17,1,0,3,Rarely,No,No,0.3731,Moderate model score
+48,Software Engineer,6047,4,4,2,3,2,No,39,2,6,2,Frequently,Yes,No,0.4237,Moderate model score
+39,HR Specialist,8535,5,0,3,3,4,No,9,1,6,4,Rarely,No,No,0.3742,Moderate model score
+54,Project Manager,3990,5,1,1,3,1,Yes,10,2,1,3,Rarely,No,No,0.4696,Moderate model score
+47,Support Engineer,9443,0,0,4,1,4,Yes,35,4,0,3,Rarely,Yes,Yes,0.5773,Moderate model score
+24,Sales Executive,3712,7,1,2,3,1,No,26,1,2,3,Rarely,No,No,0.4516,Moderate model score
+38,HR Specialist,1800,3,2,4,3,4,No,25,5,1,3,Rarely,No,Yes,0.5674,Moderate model score
+55,Software Engineer,7660,6,0,3,1,4,No,5,4,3,3,Frequently,Yes,No,0.314,Lower model score
+51,Data Analyst,10043,6,5,2,2,3,No,21,5,2,3,Rarely,Yes,No,0.2925,Lower model score
+24,Support Engineer,6736,2,2,1,1,1,No,30,2,6,3,Frequently,No,Yes,0.5766,Moderate model score
+44,Support Engineer,14765,6,1,2,4,2,No,18,3,4,4,Rarely,Yes,No,0.3862,Moderate model score
+28,Operations Associate,3930,3,3,3,1,4,Yes,17,6,6,3,Rarely,No,Yes,0.5063,Moderate model score
+30,Accountant,8195,6,4,1,4,4,No,12,1,4,3,Rarely,No,No,0.3171,Lower model score
+34,Sales Executive,9444,1,0,2,3,2,No,7,4,4,3,Rarely,No,No,0.3563,Moderate model score
+23,Project Manager,6561,2,0,2,2,2,No,36,0,4,3,Non-Travel,No,No,0.4548,Moderate model score
+43,Software Engineer,3657,8,2,3,1,1,No,4,3,2,4,Non-Travel,No,No,0.3814,Moderate model score
+28,Support Engineer,10969,7,2,3,4,2,No,10,2,5,3,Rarely,No,No,0.2688,Lower model score
+56,Sales Executive,7725,7,4,1,3,3,No,2,1,5,4,Non-Travel,No,No,0.3295,Lower model score
+25,Support Engineer,2070,2,1,2,4,4,No,26,2,2,3,Frequently,Yes,Yes,0.6069,Moderate model score
+45,Data Analyst,1800,1,1,3,1,4,No,20,6,1,2,Frequently,Yes,Yes,0.5805,Moderate model score
+59,Support Engineer,7705,2,1,1,2,2,Yes,36,1,6,3,Rarely,Yes,Yes,0.6188,Moderate model score
+24,Support Engineer,6057,6,1,4,4,1,No,6,2,1,3,Rarely,No,No,0.212,Lower model score
+48,Software Engineer,6017,3,2,3,3,4,No,30,4,3,3,Rarely,Yes,No,0.3145,Lower model score
+33,Software Engineer,1910,2,2,1,2,1,Yes,7,2,1,3,Frequently,No,Yes,0.6873,Higher model score
+52,Support Engineer,3939,7,2,2,4,3,No,30,3,3,3,Frequently,No,Yes,0.5236,Moderate model score
+44,Data Analyst,7285,0,0,2,2,4,No,19,4,5,3,Rarely,No,No,0.3527,Moderate model score
+51,Operations Associate,2065,5,1,2,4,2,Yes,12,2,2,3,Rarely,Yes,Yes,0.6648,Higher model score
+40,Sales Executive,7651,3,3,1,2,3,Yes,29,4,3,3,Rarely,No,Yes,0.554,Moderate model score
+42,Software Engineer,3879,4,4,2,4,3,Yes,37,3,0,3,Non-Travel,Yes,No,0.4236,Moderate model score
+37,Software Engineer,8448,3,1,4,4,1,No,18,2,2,3,Rarely,Yes,No,0.2149,Lower model score
+22,Support Engineer,1800,3,2,4,3,3,Yes,23,2,1,3,Frequently,No,Yes,0.6325,Moderate model score
+33,Software Engineer,4175,0,0,1,2,2,No,37,2,0,4,Frequently,No,No,0.4357,Moderate model score
+41,Project Manager,6577,6,2,4,2,3,No,4,4,2,3,Frequently,No,No,0.1602,Lower model score
+32,Sales Executive,4753,5,4,1,1,1,No,21,5,0,3,Rarely,No,No,0.2976,Lower model score
+25,Sales Executive,1945,7,4,4,2,3,Yes,40,5,1,3,Frequently,Yes,Yes,0.6602,Higher model score
+54,Software Engineer,6790,6,4,1,4,3,Yes,16,3,0,4,Rarely,Yes,No,0.4185,Moderate model score
+56,HR Specialist,5182,5,2,4,2,2,No,13,3,2,3,Rarely,No,No,0.2544,Lower model score
+33,Software Engineer,3453,1,1,4,3,2,No,17,7,5,3,Rarely,No,No,0.3969,Moderate model score
+24,Software Engineer,9745,3,3,2,2,3,No,2,2,3,3,Frequently,Yes,No,0.3463,Moderate model score
+53,Accountant,3846,4,1,1,2,1,No,1,2,1,3,Rarely,No,No,0.427,Moderate model score
+53,Project Manager,7486,1,1,1,4,1,No,7,2,1,2,Rarely,No,No,0.2807,Lower model score
+49,Operations Associate,6621,5,1,4,4,2,No,27,3,4,4,Non-Travel,No,No,0.3824,Moderate model score
+54,Support Engineer,4683,5,4,4,2,3,Yes,39,2,0,3,Frequently,No,No,0.3772,Moderate model score
+53,Software Engineer,5442,1,1,1,1,1,No,7,3,4,3,Rarely,No,No,0.4093,Moderate model score
+50,Project Manager,6600,4,1,3,3,3,No,4,4,4,3,Rarely,Yes,No,0.1871,Lower model score
+57,Project Manager,6488,7,0,1,3,1,Yes,9,3,6,4,Frequently,No,No,0.4899,Moderate model score
+26,Support Engineer,5028,9,5,2,3,4,No,28,2,3,3,Frequently,No,No,0.4249,Moderate model score
+27,Software Engineer,3748,6,2,4,3,3,Yes,24,3,5,4,Rarely,Yes,No,0.4855,Moderate model score
+44,Software Engineer,10606,5,1,3,1,2,No,40,5,5,3,Frequently,No,No,0.3624,Moderate model score
+38,Accountant,7753,3,3,3,3,4,No,22,4,4,3,Non-Travel,Yes,No,0.2979,Lower model score
+54,Data Analyst,4403,2,0,4,2,4,Yes,38,1,5,4,Rarely,Yes,Yes,0.5244,Moderate model score
+54,Support Engineer,14077,4,3,4,2,1,Yes,11,7,1,3,Rarely,No,No,0.4915,Moderate model score
+52,Software Engineer,5675,2,2,3,4,2,No,21,5,0,3,Frequently,No,No,0.2036,Lower model score
+49,Project Manager,7470,3,3,3,3,2,Yes,24,2,4,3,Rarely,Yes,No,0.2738,Lower model score
+24,Accountant,6851,3,3,4,4,4,No,26,3,4,3,Rarely,Yes,No,0.3364,Moderate model score
+51,Data Analyst,4904,3,2,1,1,4,Yes,30,5,2,4,Rarely,No,Yes,0.5672,Moderate model score
+39,Accountant,3051,4,0,2,4,4,No,25,4,2,3,Non-Travel,No,Yes,0.5947,Moderate model score
+50,Accountant,3249,1,1,1,1,1,No,40,3,1,3,Rarely,Yes,No,0.4692,Moderate model score
+36,Support Engineer,6745,5,4,1,3,4,No,23,4,6,3,Non-Travel,No,Yes,0.5099,Moderate model score
+46,Accountant,3172,5,2,2,1,2,No,25,3,5,3,Rarely,Yes,No,0.3528,Moderate model score
+48,HR Specialist,5513,0,0,1,4,4,Yes,34,1,6,2,Frequently,No,Yes,0.5004,Moderate model score
+26,Accountant,3169,3,3,2,2,1,Yes,38,3,0,3,Rarely,No,No,0.4684,Moderate model score
+49,Project Manager,2789,4,2,3,3,1,No,39,6,5,3,Rarely,No,No,0.2806,Lower model score
+56,Software Engineer,7086,5,5,3,3,1,No,36,2,2,3,Non-Travel,No,No,0.3113,Lower model score
+56,Sales Executive,7305,2,0,4,3,1,No,5,3,5,3,Rarely,No,No,0.2311,Lower model score
+60,Software Engineer,6879,1,1,4,4,2,No,21,4,6,4,Frequently,No,No,0.2772,Lower model score
+38,Project Manager,6257,6,0,2,3,2,No,23,2,6,4,Non-Travel,No,No,0.4904,Moderate model score
+26,Support Engineer,11335,7,0,4,2,1,No,34,3,2,3,Frequently,No,Yes,0.5114,Moderate model score
+37,Sales Executive,6250,3,3,4,4,3,Yes,8,3,6,3,Rarely,No,No,0.463,Moderate model score
+22,Accountant,5952,3,1,3,3,3,No,37,3,3,3,Non-Travel,No,No,0.3192,Lower model score
+24,Support Engineer,1982,4,2,3,3,1,Yes,27,4,0,3,Rarely,No,Yes,0.5987,Moderate model score
+37,Software Engineer,2425,3,2,4,4,1,Yes,32,4,2,3,Rarely,Yes,Yes,0.6,Moderate model score
+42,Accountant,1800,3,2,4,4,3,No,18,1,2,3,Rarely,Yes,Yes,0.5236,Moderate model score
+23,Software Engineer,6583,2,1,1,2,3,Yes,35,6,2,2,Rarely,Yes,Yes,0.5495,Moderate model score
+26,Sales Executive,3647,2,2,1,3,2,No,29,1,1,3,Non-Travel,No,No,0.4524,Moderate model score
+38,Software Engineer,8779,5,4,3,4,2,No,16,3,0,3,Rarely,Yes,No,0.2517,Lower model score
+30,HR Specialist,10704,14,1,4,3,3,No,12,0,5,4,Frequently,No,No,0.4156,Moderate model score
+41,HR Specialist,2205,4,3,1,4,3,No,37,3,0,3,Frequently,No,Yes,0.6296,Moderate model score
+24,Software Engineer,8033,6,2,2,4,4,Yes,10,3,3,3,Rarely,Yes,No,0.4741,Moderate model score
+54,Software Engineer,8395,7,3,1,4,4,No,38,1,0,2,Rarely,Yes,No,0.4816,Moderate model score
+44,Software Engineer,5652,5,5,3,2,4,No,14,4,5,3,Non-Travel,No,No,0.303,Lower model score
+24,Project Manager,3441,5,3,1,1,3,No,3,3,4,2,Rarely,Yes,No,0.3506,Moderate model score
+51,Software Engineer,6299,8,2,1,1,2,Yes,1,1,6,3,Frequently,Yes,No,0.3759,Moderate model score
+38,Operations Associate,7944,3,1,1,3,2,No,33,2,4,3,Frequently,No,No,0.4906,Moderate model score
+39,Software Engineer,3861,8,2,3,1,4,No,16,2,5,4,Rarely,No,No,0.4955,Moderate model score
+27,Software Engineer,6753,5,2,3,3,4,No,12,3,1,3,Frequently,No,No,0.3907,Moderate model score
+51,Accountant,8642,4,4,1,1,3,Yes,34,8,4,3,Rarely,Yes,Yes,0.5727,Moderate model score
+49,HR Specialist,6530,7,5,2,2,1,No,3,4,1,3,Frequently,No,No,0.2548,Lower model score
+52,Support Engineer,7452,8,3,2,4,2,No,36,6,0,3,Non-Travel,No,No,0.4012,Moderate model score
+46,Data Analyst,4133,5,0,3,3,2,No,18,0,0,4,Non-Travel,No,No,0.3942,Moderate model score
+30,Accountant,9694,6,0,2,3,1,Yes,39,5,0,3,Rarely,Yes,Yes,0.508,Moderate model score
+21,Accountant,2849,4,2,1,1,1,No,2,3,1,2,Rarely,No,No,0.3286,Lower model score
+39,Data Analyst,5875,2,2,3,3,2,No,4,1,0,4,Rarely,No,No,0.3434,Moderate model score
+43,HR Specialist,6465,4,3,2,2,3,Yes,36,7,1,4,Frequently,No,Yes,0.5641,Moderate model score
+21,Support Engineer,6026,6,2,4,2,1,No,24,3,5,3,Rarely,No,No,0.3539,Moderate model score
+26,Support Engineer,5428,5,1,4,3,2,No,11,4,2,3,Rarely,No,No,0.2421,Lower model score
+27,Support Engineer,3504,5,4,4,3,1,Yes,6,1,2,3,Frequently,No,No,0.3934,Moderate model score
+25,Software Engineer,7334,7,2,3,3,4,No,39,1,0,3,Rarely,Yes,No,0.4182,Moderate model score
+50,Support Engineer,7911,1,0,3,3,1,Yes,12,4,2,3,Non-Travel,No,No,0.4586,Moderate model score
+47,Support Engineer,10327,4,2,3,2,1,Yes,25,3,3,3,Rarely,No,No,0.4913,Moderate model score
+41,Sales Executive,1904,4,1,4,1,3,No,24,3,4,2,Rarely,Yes,Yes,0.5352,Moderate model score
+59,Accountant,9098,3,3,4,4,3,No,6,3,3,3,Rarely,No,No,0.2845,Lower model score
+22,Operations Associate,7702,4,4,3,3,4,Yes,23,4,0,4,Rarely,No,No,0.3602,Moderate model score
+46,Support Engineer,7388,3,3,4,2,3,Yes,26,3,5,4,Non-Travel,No,No,0.4225,Moderate model score
+49,Sales Executive,3682,6,3,4,2,3,No,18,1,1,2,Frequently,No,No,0.3902,Moderate model score
+37,Accountant,5681,5,2,4,2,4,No,7,2,2,4,Rarely,No,No,0.3892,Moderate model score
+57,Support Engineer,4246,4,0,1,3,2,No,31,0,5,3,Rarely,No,No,0.4401,Moderate model score
+31,Accountant,4979,3,3,3,1,4,No,21,3,5,3,Frequently,No,No,0.4229,Moderate model score
+35,Project Manager,6590,10,3,1,4,2,Yes,10,4,2,3,Frequently,No,No,0.337,Moderate model score
+48,Software Engineer,6440,4,4,1,1,2,Yes,22,3,3,3,Non-Travel,Yes,No,0.4124,Moderate model score
+58,Data Analyst,8143,3,3,2,3,4,No,25,1,4,3,Rarely,Yes,No,0.2845,Lower model score
+32,Project Manager,10045,3,2,1,1,2,No,25,5,5,3,Non-Travel,No,No,0.4094,Moderate model score
+32,Data Analyst,5245,4,1,4,3,2,No,27,4,0,3,Frequently,Yes,No,0.3868,Moderate model score
+38,HR Specialist,3995,4,4,2,4,4,Yes,13,3,0,3,Non-Travel,No,No,0.4302,Moderate model score
+31,Sales Executive,6810,1,1,4,4,2,No,32,4,1,4,Non-Travel,No,No,0.3303,Moderate model score
+40,Data Analyst,7151,0,0,4,1,1,No,12,4,0,3,Rarely,No,No,0.3604,Moderate model score
+58,HR Specialist,11453,5,4,2,4,3,No,11,2,6,3,Rarely,No,No,0.2911,Lower model score
+26,Sales Executive,11857,5,3,1,4,1,Yes,2,2,1,3,Rarely,No,No,0.3813,Moderate model score
+51,Data Analyst,6343,2,2,1,1,1,No,2,4,0,3,Rarely,No,No,0.3381,Moderate model score
+58,Software Engineer,8165,4,3,2,2,2,Yes,21,3,1,2,Non-Travel,Yes,No,0.3941,Moderate model score
+26,Software Engineer,2834,3,3,3,1,2,No,23,1,5,4,Frequently,No,No,0.4895,Moderate model score
+48,Sales Executive,10877,1,1,3,1,2,Yes,27,5,6,3,Rarely,Yes,No,0.4246,Moderate model score
+59,Software Engineer,5246,4,2,4,2,3,Yes,40,5,5,3,Non-Travel,No,No,0.4424,Moderate model score
+30,Software Engineer,5796,6,6,3,1,4,No,40,4,2,3,Frequently,No,No,0.4252,Moderate model score
+55,Support Engineer,12297,4,4,2,1,4,No,9,0,5,3,Frequently,No,No,0.2971,Lower model score
+50,Software Engineer,9706,2,1,1,4,3,No,38,2,2,3,Rarely,No,No,0.4231,Moderate model score
+44,Software Engineer,6864,1,1,2,1,1,No,29,2,6,3,Frequently,Yes,No,0.4341,Moderate model score
+44,Data Analyst,9847,4,3,3,2,3,No,11,4,6,4,Non-Travel,No,No,0.3063,Lower model score
+30,Project Manager,4849,5,1,4,2,3,No,28,4,6,3,Rarely,No,No,0.2593,Lower model score

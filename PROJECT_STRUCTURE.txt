@@ -1,0 +1,11 @@
+EMPLOYEE ATTRITION PREDICTION - INTERACTIVE DASHBOARD
+
+app.py                         Streamlit interactive HR analytics dashboard and prediction form
+main.py                        Original desktop graph program (Matplotlib windows)
+data/employee_attrition.csv    Sample employee dataset (synthetic)
+outputs/graphs/                Graph images from main.py
+outputs/model_report.txt       Model evaluation report from main.py
+outputs/employee_attrition_predictions.csv  Test predictions from main.py
+requirements.txt               Python dependencies
+RUN_DASHBOARD.bat              Windows one-click dashboard launcher
+README.md                      Setup and usage instructions
